@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cita con especialistas</title>
+    <title>Cita Con Especialistas</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/32552d69a0.js" crossorigin="anonymous"></script>
 
@@ -23,10 +23,10 @@
     </label>
     <input type="checkbox"  id="check" class="nav_input">
     <nav class="nav_menu">
-        <a href="" class="enlace">Especialistas</a>
-        <a href="" class="enlace">Estudios</a>
-        <a href="" class="enlace">Preguntas Frecuentes</a>
-        <a href="" class="enlace">Inciar Sesion</a>
+        <a href="#portafolio" class="enlace">Especialistas</a>
+        <a href="#acerca" class="enlace">Estudios</a>
+        <a href="#modalOpiniones" class="enlace">Preguntas Frecuentes</a>
+        <a href="#container" class="enlace">Contactate</a>
     </nav>
 
 </header>
@@ -93,7 +93,7 @@
 </div>
 <br><br><br><br>
 
-<section class="portafolio">
+<section class="portafolio" id="portafolio">
     <div class="contenedor">
       <h2 class="titulo">Especialidades</h2>
       <div class="galeria-port">
@@ -271,7 +271,48 @@
     </div>
    </div>
 
-    <div class="modal" id="modal">
+   <br><br>
+   <div class="container_acerca_de_nosotros" id="acerca">
+
+    <h2 class="titulo2">Acerca de la atencion</h2>
+    <div class="flex-box">
+        <div class="cardContent">
+            <img src="ambulancia..png" alt="" class="imgA">
+            <h5>Ambulancia</h5>
+            <div class="pra">
+                <p>Somos un servicio de emergencia, multidisciplinario con la presencia de médicos emergenciólogos apoyados por médicos intensivistas de adultos, niños las 24 horas del día la atención médica.
+                <p style="text-align: center;">
+                    <a class="button" target="_blank" href="">Registrarse</a>
+                </p>
+            </div>
+        </div>
+  
+        <div class="cardContent">
+           <img src="laboratorio.jpg" alt="">
+            <h5>Laboratorios</h5>
+            <div class="pra">
+                <p>Nuestro laboratorio combina con una gran experiencia, calidad con equipos digitales de alta tecnología.
+                <p style="text-align: center;">
+                    <a class="button" target="_blank" href="">Registrarse </a>
+                </p>
+            </div>
+        </div>
+  
+        <div class="cardContent">
+           <img src="unidadTerapiaIntensivajpg.jpg" alt="">
+            <h5>Unidades de control de su salud</h5>
+            <div class="pra">
+                <p>Contamos con una moderna infraestructura, equipados con la última tecnología y un buen confort, bioseguridad para la atención de pacientes que requieren cuidados. 
+  
+                <p style="text-align: center;">
+                    <a class="button" target="_blank" href="">Registrarse</a>
+                </p>
+            </div>
+        </div>
+    </div>
+  </div>
+
+    <div class="modal" id="modalOpiniones">
         <h1 class="ecb3">Opiniones mas recientes</h1>
         <div class="contenido">
             <div class="comentario">
@@ -297,7 +338,8 @@
         </div>
       </div>
     </div>
-<br><br>
+
+  <br><br>
 
 <footer class="pie-pagina">
   <div class="informacion-contacto">
