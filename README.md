@@ -17,6 +17,8 @@ Podras contactarte con algun especilista a traves del llenado del fomrulario.
 ## VISTAS
 
 💻 Desktop
+#
+
 [![Captura-de-pantalla-2023-05-07-231431.png](https://i.postimg.cc/L5rN4yK9/Captura-de-pantalla-2023-05-07-231431.png)](https://postimg.cc/zHFn0FG6)
 
 [![Captura-de-pantalla-2023-05-07-231512.png](https://i.postimg.cc/Cx4XJgpb/Captura-de-pantalla-2023-05-07-231512.png)](https://postimg.cc/dhL5tg10)
@@ -24,6 +26,8 @@ Podras contactarte con algun especilista a traves del llenado del fomrulario.
 [![Captura-de-pantalla-2023-05-07-231551.png](https://i.postimg.cc/NMXxJ62Z/Captura-de-pantalla-2023-05-07-231551.png)](https://postimg.cc/gXYRr6DK)
 
 📱Mobile
+#
+
 [![Captura-de-pantalla-2023-05-07-231716.png](https://i.postimg.cc/d3tLkvFn/Captura-de-pantalla-2023-05-07-231716.png)](https://postimg.cc/Pp9t9gP8)
 
 [![Captura-de-pantalla-2023-05-07-231824.png](https://i.postimg.cc/NF9vPPkB/Captura-de-pantalla-2023-05-07-231824.png)](https://postimg.cc/jnb1Dc1F)
@@ -34,4 +38,3 @@ https://herlanherbaszubieta.github.io/Page_web_scesi.github.io/
 
 # Autor👨‍💻
 Ivan Herlan Herbas Z.
-
